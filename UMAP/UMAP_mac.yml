@@ -1,0 +1,24 @@
+name: binf
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ipykernel
+  - bioconductor-biocinstaller
+  - biopython
+  - rstudio
+  - pandas
+  - seaborn
+  - hhsuite
+  - mmseqs2
+  - blast-plus
+  - blast
+  - ranger-fm
+  - plotly=4.14.3
+  - umap-learn
+  - numba
+  - pynndescent
+  - autopep8
+  - lifelines
+prefix: /Users/bendjamin101001/anaconda3/envs/binf
