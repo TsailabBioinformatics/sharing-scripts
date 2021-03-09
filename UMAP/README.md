@@ -1,6 +1,6 @@
 # A jupyter notebook for UMAP on RNA-seq data
 
-The notebook works in the attached conda environment on apple machine, have not been tested on other platforms
+The [notebook](https://github.com/TsailabBioinformatics/sharing-scripts/blob/main/UMAP/umap_rnaseq.ipynb) works in the attached conda environment on apple machine, have not been tested on other platforms
 
 reference of  setting conda environment:
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment
