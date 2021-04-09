@@ -2,6 +2,8 @@
 
 The notebook works in the attached conda environment on apple machine, have not been tested on other platforms
 
+conda env create -f UMAP_mac.yml
+
 reference of  setting conda environment:
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment
 
